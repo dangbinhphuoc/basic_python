@@ -1,0 +1,15 @@
+| Cú pháp fomat	| Mô tả                      |
+| ------------- |----------------------------|
+| %c            | character                  |
+| %s            | chuỗi                      |
+| %i            | số nguyên                  |
+| %d            | số nguyên                  |
+| %u            | số nguyên                  |
+| %o            | bát phân                   |
+| %x            | thập lục phân (in thường)  |
+| %X            | thập lục phân (in hoa)     |
+| %e            | số mũ  (với e thường)      |
+| %E            | số mũ  (với e hoa)         |
+| %f            | số thực                    |
+| %g            | dạng rút gọn của %f and %e |
+| %G            | dạng rút gọn của %f and %E |
