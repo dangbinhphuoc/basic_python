@@ -3,3 +3,4 @@
 1. Biến
 2. Hàm print
 3. Chuỗi
+4. Số
